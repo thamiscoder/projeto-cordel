@@ -1,2 +1,2 @@
 # projeto-cordel
- Projeto do Codel de Milton Duarte
+ Projeto do Cordel de Milton Duarte
