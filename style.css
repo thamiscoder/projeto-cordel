@@ -82,11 +82,11 @@ section p {
 }
 
 #img1 {
-    background: url(imagens/background001.jpg) center right no-repeat fixed;
+    background: url(imagens/background001.jpg) right center no-repeat fixed;
 }
 
 #img2 {
-    background: url(imagens/background002.jpg) center right no-repeat fixed;
+    background: url(imagens/background002.jpg) right center no-repeat fixed;
 }
 
 footer {
