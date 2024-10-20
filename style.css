@@ -14,12 +14,12 @@
     padding: 0%;
 }
 
-html, body{
+html, body {
     min-height: 100vh;
     background-color: lightgray;
 }
 
-header{
+header {
     background-color: black;
     color: white;
     text-align: center;
@@ -33,13 +33,17 @@ header h1 {
     font-variant: small-caps;
 }
 
+header p {
+    padding-bottom: 50px;
+}
+
 a {
     color: white;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
-header a:hover{
+header a:hover, footer a:hover {
     text-decoration: underline;
 }
 
@@ -54,9 +58,14 @@ section {
     padding-left: 30px;
     font-weight: bolder;
     font-size: 1.2em;
+    font-family: var(--fonte-destaque);
 }
 
-.branco{
+section p {
+    padding-bottom: 3em;
+}
+
+.branco {
     background-color: whitesmoke;
     color: black;
 }
@@ -66,12 +75,10 @@ section {
     color: white;
 }
 
-.fundo pre{
-    background-color: rgba(0, 0, 0, 0.386);
-    padding-top: 20px;
-    min-width: 100px;
-    max-width: 500px;
-    margin: left;
+.fundo p {
+    display: inline-block;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.381);
 }
 
 #img1 {
@@ -86,12 +93,7 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 1em;
-    padding: 2px;
-}
-
-footer a:hover {
-    text-decoration: underline;
+    padding: 10px;
 }
 
 
