@@ -73,6 +73,7 @@ section p {
 
 .fundo {
     background-color: rgba(47, 41, 41, 0.705);
+    background: no-repeat right center fixed;
     color: white;
 }
 
@@ -83,11 +84,11 @@ section p {
 }
 
 #img1 {
-    background: url(imagens/background001.jpg) right center repeat fixed;
+    background-image: url(imagens/background001.jpg);
 }
 
 #img2 {
-    background: url(imagens/background002.jpg) right center fixed;
+    background-image: url(imagens/background002.jpg);
 }
 
 footer {
