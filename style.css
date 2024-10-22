@@ -53,8 +53,8 @@ header p {
 }
 
 section {
-    padding-top: 10vh; 
-    padding-bottom: 10vh;
+    padding-top: 8vh; 
+    padding-bottom: 8vh;
     line-height: 2em;
     padding-left: 30px;
     font-weight: bolder;
@@ -83,7 +83,7 @@ section p {
 }
 
 #img1 {
-    background: url(imagens/background001.jpg) right center fixed;
+    background: url(imagens/background001.jpg) right center repeat fixed;
 }
 
 #img2 {
