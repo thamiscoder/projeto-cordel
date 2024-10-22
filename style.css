@@ -73,7 +73,7 @@ section p {
 
 .fundo {
     background-color: rgba(47, 41, 41, 0.705);
-    background: no-repeat right center fixed;
+    background: repeat right center fixed;
     color: white;
 }
 
