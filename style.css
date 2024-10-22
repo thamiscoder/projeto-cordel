@@ -9,6 +9,7 @@
     --fonte-padrao: 'Agdasima', sans-serif;
     --fonte-destaque: 'Josefin Sans', Helvetica;
 }
+
 * {
     margin: 0%;
     padding: 0%;
@@ -82,11 +83,11 @@ section p {
 }
 
 #img1 {
-    background: url(imagens/background001.jpg) right center no-repeat fixed;
+    background: url(imagens/background001.jpg) right center fixed;
 }
 
 #img2 {
-    background: url(imagens/background002.jpg) right center no-repeat fixed;
+    background: url(imagens/background002.jpg) right center fixed;
 }
 
 footer {
